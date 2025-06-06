@@ -21,7 +21,7 @@ Its mission? To help first-time founders identify avoidable mistakes by learning
 
 ---
 
-### ✍️ Created by [Natalia Pegoraro ([https://www.linkedin.com/in/nataliaschlickmann](https://www.linkedin.com/in/nataliapegoraro/))
+### ✍️ Created by Natalia Pegoraro ((https://www.linkedin.com/in/nataliapegoraro/))
 
 I write FailWise — a newsletter that tells the truth about what doesn't work in startups. Now, FailBot brings those lessons to your fingertips.
 
